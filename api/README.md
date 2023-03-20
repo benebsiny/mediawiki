@@ -1,4 +1,5 @@
-# API [![](https://shield.deno.dev/x/grammy)](https://deno.land/x/grammy)
+
+# API
 
 > A MediaWiki API wrapper with TypeScript type declarations.
 
